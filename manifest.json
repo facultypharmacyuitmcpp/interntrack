@@ -2,7 +2,7 @@
   "name": "InternTrack Attendance System",
   "short_name": "InternTrack",
   "description": "InternTrack Student Attendance System",
-  "start_url": "./",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f8f9fa",
   "theme_color": "#0d6efd",
